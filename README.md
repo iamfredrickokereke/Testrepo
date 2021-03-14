@@ -17,11 +17,6 @@ $ git clone https://gitlab.com/propitix/microservices/php-frontend.git
 $ cd frontend-propitix
 ```
 
-Create a feature branch. # Always start with feature/[name of your branch]
-```
-git branch -b feature/add-css-style-to-about-us-page
-```
-
 
 
 
