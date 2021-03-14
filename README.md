@@ -4,12 +4,6 @@
 Then add/commit/push to gitlab
 
 ```
-git status # to see your changes
-```
-
-```
-git add --all # If you are satisfied with your changes and willing to push everything. Otherwise, select only the files to add
-```
 
 ```
 git commit -m "Put some message about this push here"
