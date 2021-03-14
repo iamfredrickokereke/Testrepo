@@ -3,11 +3,7 @@
 
 
 ### Versioning
-| Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
-|-----|-------|-----|--------|--------|
-| latest | master Branch |1.17.2 | 7.3.8 | buster |
-
-## Fir
+|
 $ git clone https://gitlab.com/propitix/microservices/php-frontend.git
 $ cd frontend-propitix
 ```
