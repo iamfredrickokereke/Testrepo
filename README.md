@@ -1,7 +1,4 @@
 
-
-## Running (You can do this step without the pulling the above as it will put down if not found locally)
-To run the container:
 ```
 $ docker run -d eu.gcr.io/$environment/frontend-propitix:$tag-version
 ```
